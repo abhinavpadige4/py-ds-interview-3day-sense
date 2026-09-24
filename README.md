@@ -16,7 +16,7 @@ operation** and the classic patterns (two-pointer, sliding window, hash-map coun
 | 2 | Valid Anagram | [solutions/0024_valid_anagram.py](solutions/0024_valid_anagram.py) |
 | 3 | Group Anagrams | [solutions/0049_group_anagrams.py](solutions/0049_group_anagrams.py) |
 | 4 | Top K Frequent Elements | [solutions/0034_top_k_frequent_elements.py](solutions/0034_top_k_frequent_elements.py) |
-| 5 | Contains Duplicate | [solutions/0026_contains_duplicate.py](solutions/0026_contains_duplicate.py) |
+| 5 | Contains Duplicate | [solutions/0217_contains_duplicate.py](solutions/0217_contains_duplicate.py) |
 | 6 | Two Sum II (Sorted Array) | [solutions/0167_two_sum_ii.py](solutions/0167_two_sum_ii.py) |
 
 ### Day 2 — Linked Lists, Stacks, Queues
@@ -25,7 +25,7 @@ before reaching for `collections.deque`.
 
 | # | Problem | File |
 |---|---------|------|
-| 7 | Reverse Linked List | [solutions/0021_reverse_linked_list.py](solutions/0021_reverse_linked_list.py) |
+| 7 | Reverse Linked List | [solutions/0206_reverse_linked_list.py](solutions/0206_reverse_linked_list.py) |
 | 8 | Merge Two Sorted Lists | [solutions/0021_merge_two_sorted_lists.py](solutions/0021_merge_two_sorted_lists.py) |
 | 9 | Linked List Cycle | [solutions/0141_linked_list_cycle.py](solutions/0141_linked_list_cycle.py) |
 | 10 | Valid Parentheses | [solutions/0020_valid_parentheses.py](solutions/0020_valid_parentheses.py) |
@@ -39,7 +39,7 @@ Recursion, BST invariants, heap-based top-K, and BFS/DFS on graphs.
 |---|---------|------|
 | 13 | Binary Tree Level Order Traversal | [solutions/0102_level_order_traversal.py](solutions/0102_level_order_traversal.py) |
 | 14 | Maximum Depth of Binary Tree | [solutions/0104_max_depth.py](solutions/0104_max_depth.py) |
-| 15 | Validate Binary Search Tree | [solutions/0094_validate_bst.py](solutions/0094_validate_bst.py) |
+| 15 | Validate Binary Search Tree | [solutions/0098_validate_bst.py](solutions/0098_validate_bst.py) |
 | 16 | Kth Smallest Element in a BST | [solutions/0230_kth_smallest_bst.py](solutions/0230_kth_smallest_bst.py) |
 | 17 | Kth Largest Element in an Array | [solutions/0215_kth_largest.py](solutions/0215_kth_largest.py) |
 | 18 | Number of Islands | [solutions/0200_number_of_islands.py](solutions/0200_number_of_islands.py) |
